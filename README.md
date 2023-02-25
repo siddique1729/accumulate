@@ -8,18 +8,16 @@ The Website lists downs trusted and verified local organizations on ground and w
 [![how to make responsive website using html](images/web.png)](https://accumuluate.netlify.app/)
 
 ## Organizations Listed
-- Importance of Basic HTML CSS & JS.
-- Create Project Directory
-- Create Navigation Bar
-- Create Home Section
-- Create Feature Section
-- Create Popular Courses Section
-- Create Registration Form
-- Create Profile Section
-- Create Footer Section
-- Website Debugging
-- Make Responsive Website For Tablet
-- Make Responsive Website For Mobile
+- Turk Kizilay
+- Molham Team
+- IHH
+- AFAD
+- White Helmets
+- LaunchGood
+- Yeryuzu Cocuklari
+- AKUT
+- AHBAP
+- KAN
 
 # Sections
 - Navigation Page
