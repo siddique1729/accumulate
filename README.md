@@ -1,11 +1,11 @@
 # accumulate
 An NGO project listing down trusted and local donating organizations working towards earthquake relief support in Turkey and Syria
 
-# Create-Responsive-LMS/Edu-Website-HTML-CSS-Javascript
+# Accumulate - Earthquake Relief Support
 
-Learn How To Make A Complete LMS Website Using HTML, CSS and JavaScript. If you are a beginner and want to make a responsive Complete HTML and CSS Multiple Pages Website Design Step by Step.
+The Website lists downs trusted and verified local organizations on ground and working towards donation and relief support for post earthquake disaster in Turkey and Syria
 
-[![how to make responsive website using html](https://user-images.githubusercontent.com/80243988/135752832-3b071e5c-e301-422e-8a2d-3bdf7b4d26a1.PNG)](https://www.youtube.com/playlist?list=PL9bD98LkBR7PlSUOf_sbqr235NgrxMnJP)
+[![how to make responsive website using html](images/dms/8.jpg)](https://accumuluate.netlify.app/)
 
 ## What we will learn
 - Importance of Basic HTML CSS & JS.
