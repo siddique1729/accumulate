@@ -5,7 +5,7 @@ An NGO project listing down trusted and local donating organizations working tow
 
 The Website lists downs trusted and verified local organizations on ground and working towards donation and relief support for post earthquake disaster in Turkey and Syria
 
-[![how to make responsive website using html](images/dms/web.jpg)](https://accumuluate.netlify.app/)
+[![how to make responsive website using html](images/dms/web.png)](https://accumuluate.netlify.app/)
 
 ## Organizations Listed
 - Importance of Basic HTML CSS & JS.
