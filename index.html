@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Earthquake Relief Support</title>
+
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+        <link rel="stylesheet" href="style.css">
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    </head>
+
+    <body>
+
+        <!-- Navigation -->
+        <nav>
+            <img src="images/logo1.png" alt="">
+            <div class="navigation">
+                <ul>
+                    <i id="menu-close" class="fas fa-times"></i>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#course">Donating Organizations</a></li>
+                    <li><a href="https://earthquaketrack.com/p/turkey/recent">Relief News</a></li>
+                    <li><a href="https://www.google.com">Contact</a></li>    
+                </ul>
+                <img id ="menu-btn" src="images/menu.png" alt="">
+            </div>
+        </nav>   
+
+        <!-- Home -->
+
+        <section id="home">
+            <h2>Donate Through Trusted Local Organizations</h2>
+            <p>Help rebuild lives in the aftermath of the devastating earthquakes in Turkey and Syria.
+                Make a difference by donating through trusted organizations committed to providing relief and support to those affected.
+                Every donation, big or small, can make a significant impact on the road to recovery.</p>
+            <div class="btn">
+                <a class="blue" href="#course">Donating Organizations</a>
+                <a class="yellow" href="https://earthquaketrack.com/p/turkey/recent">Relief News</a>
+            </div>
+
+        </section>
+<!-- Courses -->
+
+        <section id="course">
+            <h1>Donate</h1>
+            <p>Trusted list of local organizations working towards earthquake relief support in Turkey and Syria</p>
+            <div class="course-box">
+
+                <div class="courses">
+                    <img src="images/dms/1.png" alt="">
+                    <div class="details">
+                      <h3><a class="donate" href="https://www.kizilay.org.tr/Bagis/BagisYap/405/donations-for-earthquake-in-pazarcik">Donate</a></h3>
+                    </div>
+                    
+
+                </div>
+                <div class="courses">
+                    <img src="images/dms/mh.jpg" alt="">
+                    <div class="details">
+                        <h3><a class="donate" href="https://molhamteam.com/en/campaigns/439">Donate</a></h3>
+                    </div>
+                    
+
+                </div>
+                <div class="courses">
+                    <img src="images/dms/ihh.svg" alt="">
+                    <div class="details">
+                        <h3><a class="donate" href="https://ihh.org.tr/en/donate">Donate</a></h3>
+                    </div>
+                    
+
+                </div>
+                <div class="courses">
+                    <img src="images/dms/4.jpeg" alt="">
+                    <div class="details">
+                        <h3><a class="donate" href="https://en.afad.gov.tr/earthquake-humanitarian-aid-campaign">Donate</a></h3>
+                    </div>
+                    
+
+                </div>
+                <div class="courses">
+                    <img src="images/dms/5.svg" alt="">
+                    <div class="details">
+                        <h3><a class="donate" href="https://www.whitehelmets.org/en/">Donate</a></h3>
+                    </div>
+                    
+
+                </div>
+                <div class="courses">
+                    <img src="images/dms/6.jpg" alt="">
+                    <div class="details">
+                        <h3><a class="donate" href="https://www.launchgood.com/">Donate</a></h3>
+                    </div>
+                    
+
+                </div>
+                <div class="courses">
+                    <img src="images/dms/7.jpg" alt="">
+                    <div class="details">
+                        <h3><a class="donate" href="https://bagisyap.yeced.org/en/donate/urgentrelief">Donate</a></h3>
+                    </div>
+                    
+
+                </div>
+                <div class="courses">
+                    <img src="images/dms/8.jpg" alt="">
+                    <div class="details">
+                        <h3><a class="donate" href="https://www.kanver.org/">Donate</a></h3>
+                </div>
+            </div>
+            <div class="courses">
+                <img src="images/dms/9.png.crdownload" alt="">
+                <div class="details">
+                    <h3><a class="donate" href="https://www.akut.org.tr/en/donation">Donate</a></h3>
+                </div>
+            </div>
+            
+            <div class="courses">
+                <img src="images/dms/ahb.png" alt="">
+                <div class="details">
+                    <h3><a class="donate" href="https://ahbap.org/">Donate</a></h3>
+                </div>
+            </div>
+
+            </div>
+
+
+        </section>
+
+        <!-- Footer -->
+
+        <footer>
+            <div class="footer-col">
+                <h3>&copy 2023 ACCUMULATE</h3>
+            </div>
+
+        </footer>
+
+
+        <script>
+
+            $('#menu-btn').click(function(){
+                $('nav .navigation ul').addClass('active')
+            });
+
+            $('#menu-close').click(function(){
+                $('nav .navigation ul').removeClass('active')
+            });
+
+
+        </script>
+
+
+    </body>
+
+</html>
